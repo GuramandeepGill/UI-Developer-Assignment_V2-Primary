@@ -1,0 +1,4 @@
+body div[data-role="page"] div[data-role="header"] {
+    background-color: red;
+    color: white;
+}
